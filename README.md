@@ -6,10 +6,12 @@ Compiled using:
 
 -Windows 7 x86.
 
--Visual Studio Express 2013 Update 5. (Just like the simulations)
+-Visual Studio Express 2013 Update 5 (just like the simulations).
 
--Strawberry perl 5.16
+-nmap-mswin32-aux (last version already has OpenSSL builded).
 
--NASM 2.12
+-Strawberry perl 5.16.
+
+-NASM 2.12.
 
 See full guide: https://secwiki.org/w/Nmap/Ncat_Portable
